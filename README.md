@@ -48,7 +48,7 @@ Python Infra Engineer
 </picture>
 </a></p>
 
-<a rel="me" href="https://fosstodon.org/@przecze">Mastodon: <tt>@przecze@fosstodon.org</tt></a>
+<a rel="me" href="https://fosstodon.org/@przecze">Mastodon: `@przecze@fosstodon.org`</a>
 
 <!--
 above from : https://www.profileme.dev/create-profile
