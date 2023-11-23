@@ -48,6 +48,8 @@ Python Infra Engineer
 </picture>
 </a></p>
 
+<a rel="me" href="https://fosstodon.org/@przecze">Mastodon: <tt>@przecze@fosstodon.org</tt></a>
+
 <!--
 above from : https://www.profileme.dev/create-profile
 **prze-cze/prze-cze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
